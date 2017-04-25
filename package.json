@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [labeled-stream-splicer (v2.0.0)](https://github.com/substack/labeled-stream-splicer) [![npm package](https://img.shields.io/npm/v/npmdoc-labeled-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-labeled-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer)",
+    "description": "#### basic api documentation for  [labeled-stream-splicer (v2.0.0)](https://github.com/substack/labeled-stream-splicer)  [![npm package](https://img.shields.io/npm/v/npmdoc-labeled-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-labeled-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "labeled-stream-splicer": "*",

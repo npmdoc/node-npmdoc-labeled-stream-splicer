@@ -1,4 +1,7 @@
-# api documentation for  [labeled-stream-splicer (v2.0.0)](https://github.com/substack/labeled-stream-splicer)  [![npm package](https://img.shields.io/npm/v/npmdoc-labeled-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-labeled-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer)
+# npmdoc-labeled-stream-splicer
+
+#### basic api documentation for  [labeled-stream-splicer (v2.0.0)](https://github.com/substack/labeled-stream-splicer)  [![npm package](https://img.shields.io/npm/v/npmdoc-labeled-stream-splicer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-labeled-stream-splicer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-labeled-stream-splicer)
+
 #### stream splicer with labels
 
 [![NPM](https://nodei.co/npm/labeled-stream-splicer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/labeled-stream-splicer)
@@ -68,7 +71,8 @@
     "scripts": {
         "test": "tape test/*.js"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
